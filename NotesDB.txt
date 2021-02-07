@@ -1,0 +1,42 @@
+Banco de dados 
+(RASCUNHO)
+
+- brands
+-- Id 
+-- nome
+
+- Categorias 
+-- ID
+-- sub-categoria
+-- nome
+
+- Cupom 
+-- Id
+-- nome
+-- tipo de cupom 
+-- valor do cupom 
+
+- Opções 
+-- id 
+-- Nome 
+
+- Produto 
+-- id 
+-- id categoria
+-- id marca 
+-- nome 
+-- descrição 
+-- preço novo 
+-- preço antigo 
+-- Marca
+-- Rating
+-- Melhores produtos 
+-- Novo produto 
+
+- Classificação
+-- id 
+-- id produto
+-- id usuario 
+-- comentario 
+-- quantidade de estrelas 
+
